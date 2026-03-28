@@ -3,7 +3,6 @@
 [![C](https://img.shields.io/badge/language-C-555?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Unix](https://img.shields.io/badge/platform-Unix-blue?style=flat)](https://en.wikipedia.org/wiki/Unix)
 [![42 Curriculum](https://img.shields.io/badge/42-Curriculum-orange?style=flat)](https://www.42.fr/)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/ft_ls/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 > A 42 school project: Recreating the Unix `ls` command in C.
